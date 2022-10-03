@@ -16,7 +16,7 @@
 			"url": "https://vas0sky.github.io/arm_afc2022/arm_afccarsdry.zip",
       			"file": "arm_afccarsdry.zip"
 		},
-		"arm:_afc2022_cars2": {
+		"arm_afc2022_cars2": {
 			"description": "Pack containing AFC 2022 cars (part two)",
 			"version": 22.0929,
 			"checksum": "b938c9252f59cfcf0bd798d249f155ccc50f45f86fb10589e933aecbf61eabf3",

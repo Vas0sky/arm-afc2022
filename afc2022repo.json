@@ -5,7 +5,7 @@
 		"arm_afc2022_tracks": {
 			"description": "Pack containing AFC 2022 tracks",
 			"version": 22.1011,
-			"checksum": "62765f670751fa092243d9640804b825c430add0260b10d19e536094c4807e84",
+			"checksum": "ec1e27123dcedf067f3920a2988bf706d334be214a7509ad1d47b6f6e1108d2b",
 			"url": "https://vas0sky.github.io/arm-afc2022/arm_afctracks.zip",
      			"file": "arm_afctracks.zip"
 		},

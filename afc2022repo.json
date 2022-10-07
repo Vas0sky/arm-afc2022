@@ -12,7 +12,7 @@
 		"arm_afc2022_cars1": {
 			"description": "Pack containing AFC 2022 cars (part one)",
 			"version": 22.1007,
-			"checksum": "d417c872c2cd7d4a1186d5099f93168f20667149966b1345e09456d244215652",
+			"checksum": "c19e59423c0cf49d8951a32b0e44ef62783a0646eb89a437b730a54a752d22e0",
 			"url": "https://vas0sky.github.io/arm-afc2022/arm_afccarsdry.zip",
       			"file": "arm_afccarsdry.zip"
 		},

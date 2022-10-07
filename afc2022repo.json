@@ -1,11 +1,11 @@
 {
 	"name": "ARM Formula Championship 2022 Repo",
-	"version": "22.1005",
+	"version": "22.1007",
 	"packages": {
 		"arm_afc2022_tracks": {
 			"description": "Pack containing AFC 2022 tracks",
-			"version": 22.1005,
-			"checksum": "22d235b0d8b8d668ca401e77a9ece7e3946dc921a65faa77be68edff583024e1",
+			"version": 22.1007,
+			"checksum": "5f99708d3497b87f8ad69aea01dc56605fc0206c1786d916efcb55291253e12f",
 			"url": "https://vas0sky.github.io/arm-afc2022/arm_afctracks.zip",
      			"file": "arm_afctracks.zip"
 		},

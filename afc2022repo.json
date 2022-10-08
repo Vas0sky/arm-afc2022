@@ -4,14 +4,14 @@
 	"packages": {
 		"arm_afc2022_tracks": {
 			"description": "Pack containing AFC 2022 tracks",
-			"version": 22.1010,
+			"version": 22.1009,
 			"checksum": "686c0f256d147fbb28817b0535138ca032d161b2b12ba59344f1075efd99f231",
 			"url": "https://vas0sky.github.io/arm-afc2022/arm_afctracks.zip",
      			"file": "arm_afctracks.zip"
 		},
 		"arm_afc2022_cars1": {
 			"description": "Pack containing AFC 2022 cars (part one)",
-			"version": 22.1010,
+			"version": 22.1009,
 			"checksum": "f034c4cc6c325215cdc2b7910f7e6d1b0f4071e31bcd1eafa2cc39f97fcaf527",
 			"url": "https://vas0sky.github.io/arm-afc2022/arm_afccarsdry.zip",
       			"file": "arm_afccarsdry.zip"

@@ -1,25 +1,25 @@
 {
 	"name": "ARM Formula Championship 2022 Repo",
-	"version": "22.1011",
+	"version": "22.1103",
 	"packages": {
 		"arm_afc2022_tracks": {
 			"description": "Pack containing AFC 2022 tracks",
-			"version": 22.1012,
-			"checksum": "c274b80d6ba0fe1876ea08199d480381129c180d86e34f0937dcf39edd4a66ed",
+			"version": 22.1103,
+			"checksum": "ada55630906833d6c0881b4fbb2c9d32efacf8b51065d19b08c8dce3d98f1a66",
 			"url": "https://vas0sky.github.io/arm-afc2022/arm_afctracks.zip",
      			"file": "arm_afctracks.zip"
 		},
 		"arm_afc2022_cars1": {
 			"description": "Pack containing AFC 2022 cars (part one)",
-			"version": 22.1009,
-			"checksum": "f034c4cc6c325215cdc2b7910f7e6d1b0f4071e31bcd1eafa2cc39f97fcaf527",
+			"version": 22.1103,
+			"checksum": "80cf59fa8f27e41ef617fb3eeb71db50ab17d99b017b1623cf5c98f6604a9a16",
 			"url": "https://vas0sky.github.io/arm-afc2022/arm_afccarsdry.zip",
       			"file": "arm_afccarsdry.zip"
 		},
 		"arm_afc2022_cars2": {
 			"description": "Pack containing AFC 2022 cars (part two)",
-			"version": 22.1007,
-			"checksum": "e343860fa3eb65a113a8ac7699345f8aab584a75257d1829b6d492625123271a",
+			"version": 22.1103,
+			"checksum": "4d29c0421fac6a0663640aa1c05356cb70ae4db5af14f7b948e4d24859fff998",
 			"url": "https://vas0sky.github.io/arm-afc2022/arm_afccarswet.zip",
 			"file": "arm_afccarswet.zip"
 		}
